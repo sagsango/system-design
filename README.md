@@ -1,4 +1,4 @@
-# system-design Notes
+# System Design Notes
 
 ## Key characteristics of Distributed systems
 
